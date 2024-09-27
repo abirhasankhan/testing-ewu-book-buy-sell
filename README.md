@@ -70,8 +70,8 @@ This document covers both static analysis and dynamic testing of the software, f
 ---
 
 ## 4. Automation Testing
-For automation testing, we utilize *Selenium* with test cases written in *Python*. The website used for testing is the
-**[EWU Book Buy & Sell website](https://github.com/abirkhan-zero/ewu-book-buy-sell-website)**. The Chromium WebDriver is employed to execute the tests.
+For automation testing, we utilize ***Selenium*** with test cases written in ***Python***. The website used for testing is the
+**[EWU Book Buy & Sell website](https://github.com/abirkhan-zero/ewu-book-buy-sell-website)**. The **Chromium** WebDriver is employed to execute the tests.
 
 ### 4.1 Test Cases
 **Log In:** 
