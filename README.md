@@ -52,6 +52,7 @@ This document covers both static analysis and dynamic testing of the software, f
      ||BookRequest = (USER || BookReq || Database)/
      {reqBook/getReqBook getForm/sendForm sendFormReq/rcvFormReq}.
 
+---
 
 ## 3. Testing Strategy
 
@@ -66,6 +67,7 @@ This document covers both static analysis and dynamic testing of the software, f
 3. **Test Case 3: Search Book**
    - Tests the book search functionality, assessing the accuracy of search results based on different search queries and criteria.
 
+---
 
 ## 4. Automation Testing
 For automation testing, we utilize *Selenium* with test cases written in *Python*. The website used for testing is the
@@ -85,6 +87,7 @@ For automation testing, we utilize *Selenium* with test cases written in *Python
 **All Requests:**
  - Ensures proper handling and feedback for all book requests.
 
+---
 
 ## 5. Conclusion
 The EWU Book Buy & Sell web application is a valuable resource for the **EWU Community**, enabling efficient trading of second-hand academic materials. The testing strategy implemented in this project, including:
@@ -97,6 +100,7 @@ The EWU Book Buy & Sell web application is a valuable resource for the **EWU Com
 
 The comprehensive test cases, covering functional, usability, security, performance, and compatibility testing, confirm that the platform meets the highest standards of quality and reliability. Despite a few current limitations, further enhancements can significantly improve the platform's performance and user satisfaction.
 
+---
 
 ## 6. Contributors
 - Md. Abir Hasan Khan
@@ -114,10 +118,12 @@ The comprehensive test cases, covering functional, usability, security, performa
 **Course:**
 ***CSE430 Software Testing and Quality Assurance***
 
+---
 
 ## 7. Acknowledgements
 Special thanks to **Dr. Shamim H Ripon** for his guidance and support throughout the project, and to the **East West University** community for their valuable feedback.
 
+---
 
 ## 8. References
 Sequence Diagrams
